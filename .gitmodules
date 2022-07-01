@@ -1,0 +1,3 @@
+[submodule "Ruby/vendor/spdlog"]
+	path = Ruby/vendor/spdlog
+	url = https://github.com/gabime/spdlog
